@@ -1,0 +1,16 @@
+{
+  "name": "time-differ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jon Lauridsen",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "must": "^0.13.1"
+  }
+}
